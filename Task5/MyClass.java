@@ -23,7 +23,7 @@ public class MyClass {
             if(list.contains("end")){
                 list.remove("end");
             }
-            System.out.print(list.get(i) + " ");
+            System.out.println(list.get(i));
         }
 
     }
